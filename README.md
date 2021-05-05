@@ -7,7 +7,7 @@
 </a>
 
 
-# Hi there, I'm Henrique 👋
+# Hi there, I'm Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ## About 
 
@@ -22,8 +22,14 @@
 <img src='https://github-readme-stats.vercel.app/api?username=Olivierah&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierah&theme=tokyonight&hide_langs_below=4' />
 
-## Total views <br>
+</p>
+
 <p align="center"> 
-    <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+
+ ## Total views
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ </p>
+
 </p>
 
