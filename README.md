@@ -20,19 +20,16 @@
 
 ## Some statics
 
-<p align="center">
-    </a>
-    <img src='https://github-readme-stats.vercel.app/api?username=Olivierah&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierah&theme=tokyonight&hide_langs_below=4' />
-    </a>
-</p>
 
-<p align="center"> 
 
- ## Total views
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
- </p>
+<img src='https://github-readme-stats.vercel.app/api?username=Olivierah&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierah&theme=tokyonight&hide_langs_below=4' />
 
-</p>
+
+## Total views
+ 
+
+<img alingn="center" src="https://profile-counter.glitch.me/Olivierah/count.svg" />
+
+
 
