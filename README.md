@@ -16,11 +16,17 @@
 - ❤️ interests: Python, DataScience, Machine Learning, Big Data and all that's good.
 - 🎮 I love play video games   
 
+</p>
 
 ## Some statics
 
+<p align="center">
+    </a>
 <img src='https://github-readme-stats.vercel.app/api?username=Olivierah&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierah&theme=tokyonight&hide_langs_below=4' />
+    </a>
+</p>
+
 
 </p>
 
