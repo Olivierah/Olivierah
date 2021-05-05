@@ -2,7 +2,7 @@
     <img 
         src="components/linkedin.svg" 
         alt="linkedIn" 
-        width="25" 
+        width="45" 
         align="right" />
 </a>
 
