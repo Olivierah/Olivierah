@@ -16,7 +16,9 @@
 - ❤️ interests: Python, DataScience, Machine Learning, Big Data and all that's good.
 - 🎮 I love play video games   
 
+## Total views
 
+<img alingn="center" src="https://profile-counter.glitch.me/Olivierah/count.svg" />
 
 ## Some statics
 
@@ -25,9 +27,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Total views
 
-<img alingn="center" src="https://profile-counter.glitch.me/Olivierah/count.svg" />
 
 
 
