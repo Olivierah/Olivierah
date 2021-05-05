@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/henrique-oliveira-15b656197" target="_blank">
     <img 
-        src="assets/icons/linkedin.svg" 
+        src="components/linkedin.svg" 
         alt="linkedIn" 
         width="25" 
         align="right" />
