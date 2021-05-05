@@ -20,14 +20,12 @@
 
 ## Some statics
 
-
-
 <img src='https://github-readme-stats.vercel.app/api?username=Olivierah&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierah&theme=tokyonight&hide_langs_below=4' />
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Total views
- 
 
 <img alingn="center" src="https://profile-counter.glitch.me/Olivierah/count.svg" />
 
