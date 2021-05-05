@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="750" src="astronaout.json" />
+    <img align="center" width="750" src="astronaout.ai" />
   </a>
 </p>
 </br>
