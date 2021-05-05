@@ -4,6 +4,8 @@
         alt="linkedIn" 
         width="25" 
         align="right" />
+</a>
+
 
 # Hi there, I'm Henrique 👋
 
@@ -22,6 +24,7 @@
 
 </p>
 
+
 <p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
@@ -29,4 +32,3 @@
    <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
  </p>
 
-</p>
