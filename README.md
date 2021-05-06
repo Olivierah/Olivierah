@@ -10,7 +10,7 @@
 # Hi there, I'm Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-## About 
+## About: 
 
 - 📚 I like to studies new tecnologies
 - 🌱 Data Science Student 
@@ -23,12 +23,12 @@
   </a>
 </p>
 
-## Total views
+## Total views:
 
 <img alingn="center" src="https://profile-counter.glitch.me/Olivierah/count.svg" />
 
 
-## Some statics
+## Some statics:
 <p align="center">
   <a href="#">
     <img src='https://github-readme-stats.vercel.app/api?username=Olivierah&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
