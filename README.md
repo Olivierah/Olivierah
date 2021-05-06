@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="#">
+    <img align="center" width="750" src="Astronaout-01.svg" />
+  </a>
+</p>
+</br>
+</br>
+
 <a href="https://www.linkedin.com/in/henrique-oliveira-15b656197" target="_blank">
     <img 
         src="images/linkedin.svg" 
