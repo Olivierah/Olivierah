@@ -22,8 +22,6 @@
     <img align="center" width="350" src="animation/DS.gif" />
   </a>
 </p>
-</br>
-</br>
 
 ## Total views
 
