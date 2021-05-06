@@ -16,7 +16,7 @@
 - ❤️ interests: Python, DataScience, Machine Learning, Big Data and all that's good.
 - 🎮 I love play video games 
 
-<p align="center">
+<p align="right">
   <a href="#">
     <img align="center" width="350" src="animation/DS.gif" />
   </a>
