@@ -24,11 +24,9 @@
 </p>
 
 ## Total views
-<p align="center">
-  <a href="#">
-    <img alingn="center" src="https://profile-counter.glitch.me/Olivierah/count.svg" />
-  </a>
-</p>
+
+<img alingn="center" src="https://profile-counter.glitch.me/Olivierah/count.svg" />
+
 
 ## Some statics
 <p align="center">
