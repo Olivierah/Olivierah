@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" width="350" src="" />
+    <img align="center" width="350" src="animation/DS.gif" />
   </a>
 </p>
 </br>
