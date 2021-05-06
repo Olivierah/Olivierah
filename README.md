@@ -9,15 +9,15 @@
 
 # Hi there, I'm Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="left">
+
 ## About 
 
 - 📚 I like to studies new tecnologies
 - 🌱 Data Science Student 
 - ❤️ interests: Python, DataScience, Machine Learning, Big Data and all that's good.
 - 🎮 I love play video games 
-</p>
-<p align="right">
+
+<p align="left">
   <a href="#">
     <img align="center" width="350" src="animation/DS.gif" />
   </a>
