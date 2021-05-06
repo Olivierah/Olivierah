@@ -14,7 +14,7 @@
 
 - 📚 I like to studies new tecnologies
 - 🌱 Data Science Student 
-- ❤️ interests: Python, DataScience, Machine Learning, Big Data and all that's good.
+- ❤️ interests: Python, DataScience, Machine Learning, Big Data, Deep Learning and all that's good.
 - 🎮 I love play video games 
 
 <p align="center">
