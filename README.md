@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" width="350" src="animation/ds3.gif" />
+    <img align="center" width="450" src="animation/ds3.gif" />
   </a>
 </p>
 
