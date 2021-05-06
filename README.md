@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img align="center" width="150" src="animation/DS.gif" />
-  </a>
-</p>
-</br>
-</br>
-
 <a href="https://www.linkedin.com/in/henrique-oliveira-15b656197" target="_blank">
     <img 
         src="images/linkedin.svg" 
@@ -22,7 +14,15 @@
 - 📚 I like to studies new tecnologies
 - 🌱 Data Science Student 
 - ❤️ interests: Python, DataScience, Machine Learning, Big Data and all that's good.
-- 🎮 I love play video games   
+- 🎮 I love play video games 
+
+<p align="center">
+  <a href="#">
+    <img align="center" width="200" src="animation/DS.gif" />
+  </a>
+</p>
+</br>
+</br>
 
 ## Total views
 
