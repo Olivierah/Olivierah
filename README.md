@@ -27,6 +27,11 @@
 
 <img alingn="center" src="https://profile-counter.glitch.me/Olivierah/count.svg" />
 
+## Skills :nerd_face:
+<p align="center">
+    <img height="40" src="images/pandas.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ## Some statics:
 <p align="center">
