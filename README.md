@@ -29,17 +29,17 @@
 
 ## Skills:
 <p align="center">
-    <img height="85" src="images/python.svg">
+    <img height="85" src="images/python.svg" width="55">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="85" src="images/pd.svg">
+    <img height="85" src="images/pd.svg" width="55">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="85" src="images/sns.svg">
+    <img height="85" src="images/sns.svg" width="55">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="85" src="images/plt.svg">
+    <img height="85" src="images/plt.svg" width="55">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="85" src="images/scikit.png">
+    <img height="85" src="images/scikit.png" width="55">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="90" src="images/mssql.png">
+    <img height="90" src="images/mssql.png" width="55">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
 
