@@ -29,11 +29,11 @@
 
 ## Skills:
 <p align="center">
-    <img height="65" src="images/python.png">
+    <img height="95" src="images/python.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="65" src="images/pd.svg">
+    <img height="95" src="images/pd.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="65" src="images/sns.svg">
+    <img height="95" src="images/sns.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
 
