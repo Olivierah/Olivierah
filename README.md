@@ -30,7 +30,7 @@
 ## Skills:
 <p align="center">
     <img height="40" src="images/python.svg"
-         width="55" />
+         width="80" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="images/pd.svg"
          width="55" />
