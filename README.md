@@ -25,7 +25,12 @@
 
 ## Total views:
 
-<img alingn="center" src="https://profile-counter.glitch.me/Olivierah/count.svg" />
+<img alingn="center" src="images/pandas.svg" />
+
+## Skills :nerd_face:
+<p align="center">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Some statics:
