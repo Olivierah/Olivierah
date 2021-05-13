@@ -29,7 +29,7 @@
 
 ## Skills :nerd_face:
 <p align="center">
-    <img height="40" src="images/pandas.svg">
+    <img height="40" src="images/pandas.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
