@@ -29,9 +29,13 @@
 
 ## Skills :nerd_face:
 <p align="center">
-    <img height="40" src="images/pandas.png">
+    <img height="65" src="images/python.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+    <img height="65" src="images/pandas.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="65" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
 
 ## Some statics:
 <p align="center">
