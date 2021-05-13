@@ -27,13 +27,13 @@
 
 <img alingn="center" src="https://profile-counter.glitch.me/Olivierah/count.svg" />
 
-## Skills :nerd_face:
+## Skills:
 <p align="center">
     <img height="65" src="images/python.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="65" src="images/pandas.png">
+    <img height="65" src="images/pd.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="65" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+    <img height="65" src="sns.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
 
