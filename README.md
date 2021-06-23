@@ -30,6 +30,7 @@
 ## Skills:
 <p align="center">
     <a href="https://www.python.org"><img src="images/python.svg" alt="python" width="40" height="40"/>
+    <a href="https://www.jetbrains.com/pt-br/pycharm/"><img src="images/PyCharm.svg" alt="PyCharm" width="40" height="40"/>
     <a href="https://code.visualstudio.com"><img src="images/vscode.svg" alt="vscode" width="40" height="40"/> 
     <a href="https://dotnet.microsoft.com/download"><img src="images/net.svg" alt="net" width="40" height="40"/>  
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img src="images/cs.svg" alt="cs" width="40" height="40"/>  
