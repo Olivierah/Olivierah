@@ -29,24 +29,13 @@
 
 ## Skills:
 <p align="center">
-    <img height="85" src="images/python.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="75" src="images/pandas.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="75" src="images/seaborn.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="75" src="images/plt.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="75" src="images/scikit.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="75" src="images/mssql.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="75" src="images/PyTorch.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="75" src="images/scipy.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="75" src="images/np.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.python.org"><img src="images/python.svg" alt="python" width="40" height="40"/>
+    <a href="https://code.visualstudio.com"><img src="images/vscode.svg" alt="vscode" width="40" height="40"/> 
+    <a href="https://git-scm.com/"><img src="images/git.svg" alt="git" width="40" height="40"/>
+    <a href="https://www.microsoft.com/pt-br/windows/"><img src="images/windows.svg" alt="windows" width="40" height="40"/>
+    <a href="https://www.docker.com/"><img src="images/docker.svg" alt="docker" width="40" height="40"/>
+    <a href="https://www.microsoft.com/pt-br/sql-server"><img src="images/mssql.svg" alt="mssql" width="40" height="40"/>   
+</p>
     
 
 ## Some statics:
