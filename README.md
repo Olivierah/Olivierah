@@ -31,10 +31,13 @@
 <p align="center">
     <a href="https://www.python.org"><img src="images/python.svg" alt="python" width="40" height="40"/>
     <a href="https://code.visualstudio.com"><img src="images/vscode.svg" alt="vscode" width="40" height="40"/> 
-    <a href="https://git-scm.com/"><img src="images/git.svg" alt="git" width="40" height="40"/>
+    <a href="https://dotnet.microsoft.com/download"><img src="images/net.svg" alt="net" width="40" height="40"/>  
+    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img src="images/cs.svg" alt="cs" width="40" height="40"/>  
     <a href="https://www.microsoft.com/pt-br/windows/"><img src="images/windows.svg" alt="windows" width="40" height="40"/>
+    <a href="https://www.microsoft.com/pt-br/sql-server"><img src="images/mssql.svg" alt="mssql" width="40" height="40"/>  
     <a href="https://www.docker.com/"><img src="images/docker.svg" alt="docker" width="40" height="40"/>
-    <a href="https://www.microsoft.com/pt-br/sql-server"><img src="images/mssql.svg" alt="mssql" width="40" height="40"/>   
+    <a href="https://git-scm.com/"><img src="images/git.svg" alt="git" width="40" height="40"/>
+     
 </p>
     
 
