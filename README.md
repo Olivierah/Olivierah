@@ -14,7 +14,7 @@
 
 - 📚 I like to studies new tecnologies
 - 🌱 Information Systems Student 
-- ❤️ interests: Python, C#, Cloud, Machine Learning, Deep Learning, and all that's good.
+- ❤️ interests: Python, C#, .Net Core, Cloud, Machine Learning, Deep Learning, and all that's good.
 - 🎮 I love play video games 
 
 <p align="center">
