@@ -6,7 +6,8 @@
 ## About: 
 
 - 📚 I like to studies new tecnologies
-- 🌱 Information Systems Student 
+- 📚 Graduated in Information Systems.
+- 🌱 Postgraduate Degree Software Engineering Student 
 - ❤️ interests:  C#, .Net Core, Cloud, and all that's good.
 - 🎮 I love play video games 
 
