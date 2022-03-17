@@ -1,4 +1,12 @@
 
+<a href="https://www.linkedin.com/in/henrique-oliveira-5a2144234/" target="_blank">
+    <img 
+        src="images/linkedin.svg" 
+        alt="linkedIn" 
+        width="25" 
+        align="right" />
+</a>
+
 
 # Hi there, I'm Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
