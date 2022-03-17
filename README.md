@@ -40,6 +40,7 @@
     <a href="https://www.microsoft.com/pt-br/sql-server"><img src="images/mssql.svg" alt="mssql" width="40" height="40"/>  
     <a href="https://www.docker.com/"><img src="images/docker.svg" alt="docker" width="40" height="40"/>
     <a href="https://git-scm.com/"><img src="images/git.svg" alt="git" width="40" height="40"/>
+    <a href="https://www.oracle.com/br/database/"><img src="images/ora.svg" alt="ora" width="40" height="40"/>
      
 </p>
     
