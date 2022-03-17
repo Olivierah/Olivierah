@@ -3,7 +3,7 @@
     <img 
         src="images/linkedin.svg" 
         alt="linkedIn" 
-        width="60" 
+        width="55" 
         align="right" />
 </a>
 
