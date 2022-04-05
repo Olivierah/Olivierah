@@ -47,11 +47,12 @@
     
 
 ## Some statics:
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Olivierah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierah&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="center">
+  <a href="#">
+    <img src='https://github-readme-stats.vercel.app/api?username=Olivierah&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierah&theme=tokyonight&hide_langs_below=4'/>
+  </a>
+</p>
 
 
 
