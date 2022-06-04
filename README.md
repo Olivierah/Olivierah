@@ -16,7 +16,7 @@
 - 📚 I like to studies new tecnologies
 - 📚 Graduated in Information Systems.
 - 🌱 Postgraduate Degree Software Engineering Student 
-- ❤️ interests:  C#, .Net Core, Cloud, and all that's good.
+- ❤️ interests:  .NET C#, Angular, JavaScript, Python, Cloud, and all that's good.
 - 🎮 I love play video games 
 
 <p align="center">
@@ -33,6 +33,8 @@
 <p align="center">
     <a href="https://www.python.org"><img src="images/python.svg" alt="python" width="40" height="40"/>
     <a href="https://www.jetbrains.com/pt-br/pycharm/"><img src="images/PyCharm.svg" alt="PyCharm" width="40" height="40"/>
+    <a href="https://angular.io/"><img src="images/ang.svg" alt="ang" width="40" height="40"/>
+    <a href="https://www.javascript.com/"><img src="images/js.svg" alt="js" width="40" height="40"/>
     <a href="https://code.visualstudio.com"><img src="images/vscode.svg" alt="vscode" width="40" height="40"/> 
     <a href="https://dotnet.microsoft.com/download"><img src="images/net.svg" alt="net" width="40" height="40"/>  
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img src="images/cs.svg" alt="cs" width="40" height="40"/>  
