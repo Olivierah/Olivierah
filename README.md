@@ -16,7 +16,7 @@
 - 📚 I like to studies new tecnologies
 - 📚 Graduated in Information Systems.
 - 🌱 Postgraduate Degree Software Engineering Student 
-- ❤️ interests:  .NET C#, Angular, JavaScript, Python, Cloud, and all that's good.
+- ❤️ interests:  .NET C#, Python, Cloud, and all that's good.
 - 🎮 I love play video games 
 
 <p align="center">
